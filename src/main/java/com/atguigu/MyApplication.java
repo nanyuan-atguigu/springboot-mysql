@@ -11,6 +11,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class MyApplication {
     public static void main(String[] args) {
         SpringApplication.run(MyApplication.class,args);
-        System.out.println("master分支");
+        System.out.println("dev分支");
     }
 }
